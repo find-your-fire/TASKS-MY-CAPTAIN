@@ -192,7 +192,7 @@ void main()
       clrscr();
       cout<<"\n[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]";
       cout<<"\n\n\t\t\tBOOK  SHOP  BILLING\n";
-      cout<<"\n\t\t\t\t\t\t       BY:ANUSREE and MARIA";
+      cout<<"\n\t\t\t\t\t\t       BY:ANANYA";
       cout<<"\n[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]";
       cout<<"\n\n\n\n\n\n"
       <<"\t\t\t\t   MAIN MENU\n"
